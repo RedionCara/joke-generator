@@ -34,7 +34,7 @@ header, footer {
     margin-bottom: 1rem;
 }
 
-#generate-btn {
+.generate-btn {
     background-color: #ff5252;
     color: white;
     border: none;
